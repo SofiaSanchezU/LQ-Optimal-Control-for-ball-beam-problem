@@ -38,5 +38,5 @@ The repository contains three files
 5. The plots should start to show the results
 
 <p align="center">
-  <img src="Images/control.png" alt="Texto alternativo" width="600">
+  <img src="Images/control.png" alt="Texto alternativo" width="400">
 </p>
