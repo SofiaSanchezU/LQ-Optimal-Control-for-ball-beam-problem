@@ -31,11 +31,10 @@ The repository contains three files
 # Example to run the experiment  
 **"Ball and Beam"**
 ### Matlab/Simulink simulation 
-1. Download the files.
-   
-2.1 To perform the regulation problem run the Matlab file "**ball_beam_regulation**".  
-2.2 To perform the tracking problem run the Matlab file "**ball_beam_tracking**".  
-2.3 To perform the tracking problem with an integrator run the Matlab file "**ball_beam_track_with_integrator**".  
+1. Download the files. 
+2.1. To perform the regulation problem run the Matlab file "**ball_beam_regulation**".  
+2.2. To perform the tracking problem run the Matlab file "**ball_beam_tracking**".  
+2.3. To perform the tracking problem with an integrator run the Matlab file "**ball_beam_track_with_integrator**".  
 3. The plots should start to show the results
 
 <p align="center">
